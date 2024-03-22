@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  margin-top: 144px;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  width: 466px;
+  gap: 8px;
+}
+.inputStyle {
+  color: white;
+  height: 25px;
+  border: 2px solid #a35709;
+  border-radius: 6px;
+  background-color: #242320;
+}
+.buttonWrapper {
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  background: bisque;
+  border-radius: 8px;
+  border: none;
+}
+.ErrorMessage {
+  color: red;
+  justify-content: center;
+  display: flex;
+}
