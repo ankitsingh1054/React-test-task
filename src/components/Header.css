@@ -1,0 +1,14 @@
+.header {
+  width: 100%;
+  height: 82px;
+  border-radius: 2px;
+  border: 2px solid #a35709;
+  background-color: #242320;
+}
+.textprop {
+  width: 82px;
+  height: 47px;
+  margin-top: 17px;
+  margin-left: 48px;
+  padding-top: 5px;
+}

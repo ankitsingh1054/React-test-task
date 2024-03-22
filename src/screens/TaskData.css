@@ -1,0 +1,37 @@
+.taskDataContainer {
+  width: 345px;
+  height: 72px;
+  top: 440px;
+  left: 158px;
+  padding: 16px 0px 0px 0px;
+  gap: 16px;
+  border-radius: 8px;
+  border: 2px solid #a35709;
+  opacity: 0px;
+  margin: 40px 10px 0px 10px;
+}
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  border-top: 2px solid #a35709;
+  background-color: #1b1a17;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.buttonStyle {
+  background-color: #1b1a17;
+  margin: 10px;
+  color: white;
+  border: 2px solid #a35709;
+}
